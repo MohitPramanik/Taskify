@@ -27,7 +27,7 @@ The app supports **light/dark themes**, **task editing**, and **data persistence
 
 ## 🖥️ Live Demo
 
-👉 [View Taskify Live](https://mohitpramanik.github.io/Taskify/)
+👉 [View Taskify Live](https://taskify-one.vercel.app/)
 
 ---
 
