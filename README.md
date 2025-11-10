@@ -27,7 +27,7 @@ The app supports **light/dark themes**, **task editing**, and **data persistence
 
 ## 🖥️ Live Demo
 
-👉 [View Taskify Live](https://mohitpramanik.github.io/To-do-list-App/)
+👉 [View Taskify Live](https://mohitpramanik.github.io/Taskify/)
 
 ---
 
