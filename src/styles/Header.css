@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background: var(--header-bg);
+  color: var(--logo-text);
+  border-bottom: 0.125rem solid var(--border-color);
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.logo-area {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 0.0625rem;
+}
+
+.switch-area {
+  display: flex;
+  align-items: center;
+}
